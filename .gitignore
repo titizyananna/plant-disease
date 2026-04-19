@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+wandb/
+train/
+val/
+*.pth
+.DS_Store
